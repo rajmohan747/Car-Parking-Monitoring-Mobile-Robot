@@ -8,5 +8,4 @@ minimizing the human intervention in the robot motion.Camera mounted on top of t
 plates of the vehicles parked in the MLCP.The entire set of information collected will be updated into the cloud data base.Image processingtechniques were used for extracting information from these images.Operation of the robot as well as the camera can be controlled using an android tablet. Information collected can be used for monitoringwhether vehicles are parked in allocated slot itself.
 
 
-Use the image files attached for creating the circuitry for the basic mobile robot.  
-
+Use the image files attached for creating the circuits for the basic mobile robot
